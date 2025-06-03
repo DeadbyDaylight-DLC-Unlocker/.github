@@ -1,5 +1,15 @@
 # 🍃 Dead by Daylight DLC Unlocker V2
 
+**DBD DLC Unlocker V2** is the best currently available way to unlock all DBD expansions and addons for free.
+
+## 🧩 What Is It?
+
+DBD DLC Unlocker V2 is a tool that lets you:
+
+- ✅ Update and repair a your Dead by Daylight installation  
+- ✅ Download and install **DLCs**  
+- ✅ Add a **modified EXE** to a legit game (if desired)
+
 ## 📥 Getting Started  
 Follow these simple steps to set everything up:
 
@@ -8,14 +18,12 @@ Follow these simple steps to set everything up:
 3. **Launch the application and follow the instructions**
 4. **Enjoy the enhanced game experience!**
 
----
-
-## 📌 Overview  
+**📌 Description:**  
 🚀 **DBD DLC Unlocker V2** is the best currently available way to unlock all DBD expansions and addons for free.
 
-![DLC Manager Preview](https://i.ytimg.com/vi/pbQTZWkbo4A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPl1UxhqXje9YqRv1uSwBDUsUE8A)
+---
 
-![All Content Enabled](https://user-images.githubusercontent.com/50819244/274572040-e1bf88ae-9634-4b3d-a788-c52c92628206.jpg)
+![DLC Manager Preview](https://i.ytimg.com/vi/pbQTZWkbo4A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPl1UxhqXje9YqRv1uSwBDUsUE8A)
 
 ---
 
