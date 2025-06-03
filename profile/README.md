@@ -18,9 +18,6 @@ Follow these simple steps to set everything up:
 3. **Launch the application and follow the instructions**
 4. **Enjoy the enhanced game experience!**
 
-**📌 Description:**  
-🚀 **DBD DLC Unlocker V2** is the best currently available way to unlock all DBD expansions and addons for free.
-
 ---
 
 ![DLC Manager Preview](https://i.ytimg.com/vi/pbQTZWkbo4A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPl1UxhqXje9YqRv1uSwBDUsUE8A)
@@ -58,5 +55,5 @@ Whether you need help, want updates, or just want to chat with other players, yo
 ---
 
 **Tags:**  
-`dead by daylight dlc manager` `dbd expansion manager` `content unlock tool` `dbd utility` `dlc updater`
+`dead by daylight dlc manager` `dbd expansion manager` `content unlock tool` `dbd utility` `dlc updater` `dbd dlc unlocker` `dbd free dlc` `dbd expansion unlocker`
 
